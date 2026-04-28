@@ -1,2 +1,5 @@
 # Projeto de Python com IA
-## Cap02
+
+> Este projeto vai do básico ao avançado em Python com IA
+
+
